@@ -1,15 +1,15 @@
 <script>
-      import Link from './components/Link.svelte'
-      import Movable from './components/Movable.svelte'
-      import Dialog from "./components/Dialog.svelte";
-      import Popover from "./components/Popover.svelte";
-      import Select from "./components/Select.svelte";
-      import ButtonTerms from './components/ButtonTerms.svelte';
-      import SideMenu from './components/SideMenu.svelte';
-      import Accordeon from './components/Accordeon.svelte';
-      import Slider from './components/Slider.svelte'
-      import Radiogroupe from "./components/Radiogroupe.svelte";
-      import Todo from "./components/todo.svelte";
+      import Link from './ui/Link.svelte'
+      import Movable from './ui/Movable.svelte'
+      import Dialog from "./ui/Dialog.svelte";
+      import Popover from "./ui/Popover.svelte";
+      import Select from "./ui/Select.svelte";
+      import ButtonTerms from './ui/ButtonTerms.svelte';
+      import SideMenu from './ui/SideMenu.svelte';
+      import Accordeon from './ui/Accordeon.svelte';
+      import Slider from './ui/Slider.svelte'
+      import Radiogroupe from "./ui/Radiogroupe.svelte";
+      import Todo from "./ui/todo.svelte";
 
 
       const donne = {
